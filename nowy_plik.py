@@ -25,4 +25,4 @@ def efekt(x):
 najkrotsza = efekt(x)
 print(najkrotsza)
 print(len(najkrotsza))
-
+print()
