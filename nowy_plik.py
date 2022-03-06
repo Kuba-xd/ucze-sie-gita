@@ -24,5 +24,8 @@ def efekt(x):
 
 najkrotsza = efekt(x)
 print(najkrotsza)
+<<<<<<< HEAD
 print(len(najkrotsza))
 
+=======
+>>>>>>> 26cb01103b0e5642ba27a77dbb619f0b6355cd6e
